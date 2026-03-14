@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="384" height="16" viewBox="0 0 384 512" version="1.1" id="svg8" ns1:version="1.0 (1.0+r73+1)" ns2:docname="acclaim.svg" class="icon icon-academicons icon-acclaim">
+  <title id="title833">Acclaim</title>
+  <defs id="defs2" />
+  <ns2:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" ns1:pageopacity="0.0" ns1:pageshadow="2" ns1:zoom="0.75" ns1:cx="274.40891" ns1:cy="230.19478" ns1:document-units="px" ns1:current-layer="layer6" ns1:document-rotation="0" showgrid="true" units="px" showguides="true" ns1:guide-bbox="true" ns1:window-width="1315" ns1:window-height="713" ns1:window-x="51" ns1:window-y="27" ns1:window-maximized="1">
+    <ns1:grid type="xygrid" id="grid10" empspacing="4" />
+    <ns2:guide position="384.00001,64" orientation="0,1" id="guide23" ns1:label="baseline" ns1:locked="true" ns1:color="rgb(0,0,255)" />
+  </ns2:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Acclaim</dc:title>
+        <ns4:license rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Acclaim</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </ns4:Work>
+      <ns4:License rdf:about="http://scripts.sil.org/OFL">
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </ns4:License>
+    </rdf:RDF>
+  </metadata>
+  <g ns1:groupmode="layer" id="layer6" ns1:label="icon">
+    <path style="stroke-width:0.0671184" d="M 191.99999,64 C 176.37554,74.859196 34.878767,208.26556 27.428566,221.37263 v 72.22071 c 10.32553,0.25289 147.565524,-143.55201 164.571424,-150.38224 17.00637,6.83023 154.24589,150.63512 164.57144,150.38224 V 221.37263 C 349.12123,208.26556 207.62447,74.859196 191.99999,64 Z m 0,154.40637 C 176.37554,229.26555 34.878767,362.67189 27.428566,375.77897 v 72.2207 c 10.32553,0.25285 147.565524,-143.55198 164.571424,-150.38396 17.00637,6.83198 154.24589,150.63685 164.57144,150.38396 v -72.2207 C 349.12123,362.67189 207.62447,229.26555 191.99999,218.40637 Z" id="path2" />
+  </g>
+</svg>

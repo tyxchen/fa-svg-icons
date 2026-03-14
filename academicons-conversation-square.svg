@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" ns1:docname="template-square.svg" ns2:version="1.0 (1.0+r73+1)" id="svg8" version="1.1" viewBox="0 0 448 512" height="16" width="448" class="icon icon-academicons icon-conversation-square">
+  <title id="title898">The Conversation</title>
+  <defs id="defs2" />
+  <ns1:namedview ns2:window-maximized="1" ns2:window-y="27" ns2:window-x="51" ns2:window-height="713" ns2:window-width="1315" ns2:guide-bbox="true" showguides="true" units="px" showgrid="true" ns2:document-rotation="0" ns2:current-layer="layer6" ns2:document-units="px" ns2:cy="256" ns2:cx="203.33333" ns2:zoom="0.75" ns2:pageshadow="2" ns2:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base">
+    <ns2:grid empspacing="4" id="grid10" type="xygrid" />
+    <ns1:guide ns2:color="rgb(0,0,255)" ns2:locked="true" ns2:label="" id="guide832" orientation="0,1" position="448,416" />
+    <ns1:guide ns2:color="rgb(0,0,255)" ns2:locked="true" ns2:label="" id="guide834" orientation="0,1" position="448,96" />
+    <ns1:guide ns2:color="rgb(0,0,255)" ns2:locked="true" ns2:label="baseline" id="guide836" orientation="0,1" position="448,64" />
+    <ns1:guide position="64,512" orientation="1,0" id="guide835" />
+    <ns1:guide position="384,512" orientation="1,0" id="guide837" />
+  </ns1:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>The Conversation</dc:title>
+        <ns4:license rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>The Conversation</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </ns4:Work>
+      <ns4:License rdf:about="http://scripts.sil.org/OFL">
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </ns4:License>
+    </rdf:RDF>
+  </metadata>
+  <g ns2:label="icon" id="layer6" ns2:groupmode="layer">
+    <path d="M 48 32 C 21.5 32 0 53.5 0 80 L 0 432 C 0 458.5 21.5 480 48 480 L 400 480 C 426.5 480 448 458.5 448 432 L 448 80 C 448 53.5 426.5 32 400 32 L 48 32 z M 205.91797 147.73047 L 279.62305 147.73047 C 336.84766 147.73047 384 194.88476 384 252.10938 L 384 256.22852 C 384 312.53753 337.76324 359.69141 279.62305 359.69141 L 206.83203 359.69141 C 183.48439 359.69141 161.51151 352.36595 144.11523 339.08984 L 64 364.26953 L 118.93555 312.53711 C 107.94842 295.59863 101.53906 276.82938 101.53906 256.22852 L 101.53906 252.10938 C 101.53906 194.88476 148.69336 147.73047 205.91797 147.73047 z M 204.4668 187.51953 C 172.87881 187.51953 149.56445 210.87881 149.56445 242.4668 L 149.56445 269.5332 C 149.56445 301.12118 172.87882 320.73828 204.4668 320.73828 L 280.00391 320.73828 C 311.1341 320.73828 334.97656 301.12118 334.97656 269.5332 L 334.97656 242.4668 C 334.97656 210.87881 311.5919 187.51953 280.00391 187.51953 L 204.4668 187.51953 z " id="path2" />
+  </g>
+</svg>

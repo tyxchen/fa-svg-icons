@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env python3
 
 # Add height="16" attributes to all FontAwesome SVG icons
 # http://www.otsukare.info/2017/11/02/fatwigoo

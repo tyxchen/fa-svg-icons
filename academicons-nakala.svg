@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" ns1:docname="nakala.svg" ns2:version="1.0 (1.0+r73+1)" id="svg8" version="1.1" viewBox="0 0 512 512" height="16" width="512" class="icon icon-academicons icon-nakala">
+  <title id="title833">Nakala</title>
+  <defs id="defs2" />
+  <ns1:namedview ns2:snap-global="true" ns2:window-maximized="1" ns2:window-y="27" ns2:window-x="51" ns2:window-height="713" ns2:window-width="1315" ns2:guide-bbox="true" showguides="true" units="px" showgrid="true" ns2:document-rotation="0" ns2:current-layer="layer7" ns2:document-units="px" ns2:cy="256" ns2:cx="256" ns2:zoom="0.75" ns2:pageshadow="2" ns2:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base">
+    <ns2:grid empspacing="4" id="grid10" type="xygrid" />
+    <ns1:guide ns2:color="rgb(0,0,255)" ns2:locked="true" ns2:label="baseline" id="guide1908" orientation="0,1" position="511.99998,64" />
+  </ns1:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Nakala</dc:title>
+        <ns4:license rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Nakala</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </ns4:Work>
+      <ns4:License rdf:about="http://scripts.sil.org/OFL">
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </ns4:License>
+    </rdf:RDF>
+  </metadata>
+  <g ns2:label="icon" id="layer7" ns2:groupmode="layer">
+    <path d="m 85.122864,96.007796 c -17.679831,0.227377 -35.90614,5.430304 -53.798867,15.955284 36.535419,-5.08106 60.196642,-2.36159 60.196642,-2.36159 0,0 -45.555004,16.17089 -79.458156,66.65252 19.127136,-14.16988 47.128319,-26.56352 47.128319,-26.56352 0,0 -15.937575,17.08903 -22.426301,37.33338 -4.019723,12.54125 -2.518601,44.14196 23.719496,59.65614 23.376115,13.82192 53.476383,10.40571 71.479263,-3.37696 A 135.09661,135.09661 0 0 0 126.62378,280.90417 135.09661,135.09661 0 0 0 261.72209,416 135.09661,135.09661 0 0 0 396.81792,280.90417 135.09661,135.09661 0 0 0 393.42076,250.79954 c 17.49377,6.95154 39.84435,6.67185 58.09523,-4.11953 26.23823,-15.51418 27.73923,-47.11489 23.71948,-59.65614 -6.48877,-20.24435 -22.42632,-37.33338 -22.42632,-37.33338 0,0 28.00112,12.39364 47.12837,26.56352 -33.90331,-50.48163 -79.45818,-66.65252 -79.45818,-66.65252 0,0 23.66102,-2.71947 60.19661,2.36159 -57.22231,-33.659515 -117.85809,-12.879652 -153.0919,50.9877 a 135.09661,135.09661 0 0 0 -65.86196,-17.14493 135.09661,135.09661 0 0 0 -74.5127,22.40611 C 163.03652,120.93964 125.50853,95.488448 85.122864,96.007796 Z M 261.72209,180.26492 A 100.63997,100.63997 0 0 1 362.36137,280.90417 100.63997,100.63997 0 0 1 261.72209,381.54345 100.63997,100.63997 0 0 1 161.08284,280.90417 100.63997,100.63997 0 0 1 261.72209,180.26492 Z m 0,46.60548 a 54.033723,54.033723 0 0 0 -54.03376,54.03377 54.033723,54.033723 0 0 0 54.03376,54.03379 54.033723,54.033723 0 0 0 54.03378,-54.03379 54.033723,54.033723 0 0 0 -54.03378,-54.03377 z m 16.14218,9.20895 a 20.608254,20.608254 0 0 1 0.24753,0 20.608254,20.608254 0 0 1 20.60772,20.60775 20.608254,20.608254 0 0 1 -20.60772,20.60775 20.608254,20.608254 0 0 1 -20.60776,-20.60775 20.608254,20.608254 0 0 1 20.36023,-20.60775 z" style="fill-opacity:1;stroke-width:0.264584;stroke-opacity:0.223409;stop-color:#000000" id="path1813" />
+  </g>
+</svg>

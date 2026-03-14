@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" ns1:docname="crossref.svg" ns2:version="0.92.5 (2060ec1f9f, 2020-04-08)" id="svg8" version="1.1" viewBox="0 0 320 512" height="16" width="320" class="icon icon-academicons icon-crossref">
+  <title id="title833">Crossref</title>
+  <defs id="defs2" />
+  <ns1:namedview ns2:window-maximized="1" ns2:window-y="0" ns2:window-x="56" ns2:window-height="1043" ns2:window-width="1864" ns2:guide-bbox="true" showguides="true" units="px" showgrid="true" ns2:document-rotation="0" ns2:current-layer="layer6" ns2:document-units="px" ns2:cy="250.66667" ns2:cx="-78.666667" ns2:zoom="0.75" ns2:pageshadow="2" ns2:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base">
+    <ns2:grid empspacing="4" id="grid10" type="xygrid" />
+    <ns1:guide ns2:color="rgb(0,0,255)" ns2:locked="false" ns2:label="baseline" id="guide861" orientation="0,1" position="320,64" />
+  </ns1:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Crossref</dc:title>
+        <ns4:license rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Crossref</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </ns4:Work>
+      <ns4:License rdf:about="http://scripts.sil.org/OFL">
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </ns4:License>
+    </rdf:RDF>
+  </metadata>
+  <g ns2:label="icon" id="layer6" ns2:groupmode="layer">
+    <path style="stroke-width:2.77830958" d="M 310.36246,40 25.167851,134.01757 217.23482,200.00243 310.36246,169.33249 Z M 9.637541,139.12923 V 271.09895 L 201.67195,205.11409 Z m 207.597279,71.09651 -192.039829,65.98482 77.543069,25.53667 192.06689,-65.95772 z m 93.12764,30.6754 -192.06695,65.9848 192.06695,65.98494 z M 102.73806,311.99758 9.637541,342.66751 V 472 L 294.80495,377.9825 Z" id="polygon4-3" ns2:connector-curvature="0" ns1:nodetypes="ccccccccccccccccccccccc" />
+  </g>
+</svg>

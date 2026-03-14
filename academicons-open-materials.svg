@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="512" height="16" viewBox="0 0 512 512" version="1.1" id="svg8" ns1:version="1.0 (1.0+r73+1)" ns2:docname="open-materials.svg" class="icon icon-academicons icon-open-materials">
+  <title id="title833">Open Materials</title>
+  <defs id="defs2" />
+  <ns2:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" ns1:pageopacity="0.0" ns1:pageshadow="2" ns1:zoom="0.75" ns1:cx="256" ns1:cy="256" ns1:document-units="px" ns1:current-layer="layer6" ns1:document-rotation="0" showgrid="true" units="px" showguides="true" ns1:guide-bbox="true" ns1:window-width="1315" ns1:window-height="713" ns1:window-x="51" ns1:window-y="27" ns1:window-maximized="1">
+    <ns1:grid type="xygrid" id="grid10" empspacing="4" />
+    <ns2:guide ns1:color="rgb(0,0,255)" ns1:locked="true" ns1:label="baseline" position="511.99998,64" orientation="0,1" id="guide39" />
+  </ns2:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Open Materials</dc:title>
+        <ns4:license rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Open Science Badges</rdf:li>
+            <rdf:li>Open Materials</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </ns4:Work>
+      <ns4:License rdf:about="http://scripts.sil.org/OFL">
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </ns4:License>
+    </rdf:RDF>
+  </metadata>
+  <g ns1:groupmode="layer" id="layer6" ns1:label="icon">
+    <path id="path86" style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.0352777" d="m 255.99051,7.9999992 c -14.45957,0 -28.91558,3.1667158 -39.88958,9.5105468 L 69.397238,102.20596 C 47.455739,114.88072 29.50769,145.96034 29.50769,171.29036 v 169.41925 c 0,25.33653 17.948049,56.42568 39.889548,69.0939 l 146.703692,84.71437 c 10.974,6.32444 25.4365,9.48212 39.88958,9.48212 14.46596,0 28.92849,-3.15768 39.88953,-9.48212 l 146.72261,-84.71437 c 21.9352,-12.66822 39.88966,-43.75737 39.88966,-69.0939 V 171.29036 c 0,-25.33002 -17.95446,-56.40964 -39.88966,-69.0844 L 295.88952,17.510546 c -10.974,-6.343831 -25.43305,-9.5105468 -39.89901,-9.5105468 z m -58.05822,145.7374608 58.06766,22.86711 58.09612,-22.86711 100.07901,40.79892 -58.06755,22.85762 V 317.49208 L 255.99995,358.27204 155.90196,317.49208 V 217.394 L 97.815363,194.53638 Z M 155.90196,217.394 255.99995,258.16451 356.10753,217.394 255.99995,176.60457 Z" />
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" ns1:docname="hypothes.svg" ns2:version="1.0 (1.0+r73+1)" id="svg8" version="1.1" viewBox="0 0 512 512" height="16" width="512" class="icon icon-academicons icon-hypothesis">
+  <title id="title861">hypothes.is</title>
+  <defs id="defs2" />
+  <ns1:namedview ns2:window-maximized="1" ns2:window-y="27" ns2:window-x="51" ns2:window-height="713" ns2:window-width="1315" ns2:guide-bbox="true" showguides="true" units="px" showgrid="true" ns2:document-rotation="0" ns2:current-layer="layer6" ns2:document-units="px" ns2:cy="256" ns2:cx="299.33333" ns2:zoom="0.75" ns2:pageshadow="2" ns2:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" scale-x="1">
+    <ns2:grid empspacing="4" id="grid10" type="xygrid" />
+  </ns1:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>hypothes.is</dc:title>
+        <ns4:license rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>hypothes.is</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </ns4:Work>
+      <ns4:License rdf:about="http://scripts.sil.org/OFL">
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </ns4:License>
+    </rdf:RDF>
+  </metadata>
+  <g ns2:label="icon" id="layer6" ns2:groupmode="layer">
+    <path id="path14" style="fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.33333" d="m 95.99673,64.000001 c -17.64763,0 -31.99791,14.326535 -31.99791,31.997908 V 416.00444 c 0,17.6464 14.32654,31.99792 31.99791,31.99792 H 207.05647 L 256.00274,512 304.94352,448.00236 h 111.05974 c 17.64639,0 31.99792,-14.32779 31.99792,-31.99792 V 95.997909 c 0,-17.647623 -14.32778,-31.997908 -31.99792,-31.997908 z m 32.00157,63.999469 h 48.12962 v 112.03205 c 0,0 16.04495,-31.98325 47.87142,-31.98325 32.00272,0 64.43527,15.95343 64.43527,65.69504 V 384.00288 H 240.30316 V 288.0586 c 0,-26.06019 -16.30233,-36.05971 -32.30369,-32.05468 -16.00136,3.99879 -31.87155,20.99507 -31.87155,56.04532 v 71.95364 H 127.9983 Z M 367.99999,320.0034 c 17.67638,0 32.00159,14.27716 32.00159,31.89355 0,17.61762 -14.32521,31.89536 -32.00159,31.89536 -17.67136,0 -31.99607,-14.27774 -31.99607,-31.89536 0,-17.61639 14.32471,-31.89355 31.99607,-31.89355 z" />
+  </g>
+</svg>

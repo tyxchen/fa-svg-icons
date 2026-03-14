@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:ns2="http://www.inkscape.org/namespaces/inkscape" xmlns:ns4="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" ns1:docname="ceur.svg" ns2:version="1.0 (1.0+r73+1)" id="svg8" version="1.1" viewBox="0 0 512 512" height="16" width="512" class="icon icon-academicons icon-ceur">
+  <title id="title833">CEUR</title>
+  <defs id="defs2" />
+  <ns1:namedview ns2:window-maximized="1" ns2:window-y="27" ns2:window-x="51" ns2:window-height="713" ns2:window-width="1315" ns2:guide-bbox="true" showguides="true" units="px" showgrid="true" ns2:document-rotation="0" ns2:current-layer="layer6" ns2:document-units="px" ns2:cy="256" ns2:cx="256" ns2:zoom="0.75" ns2:pageshadow="2" ns2:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base">
+    <ns2:grid empspacing="4" id="grid10" type="xygrid" />
+    <ns1:guide position="511.99998,64" orientation="0,1" id="guide23" ns2:label="baseline" ns2:locked="true" ns2:color="rgb(0,0,255)" />
+  </ns1:namedview>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <ns4:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CEUR</dc:title>
+        <ns4:license rdf:resource="http://scripts.sil.org/OFL" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>CEUR</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </ns4:Work>
+      <ns4:License rdf:about="http://scripts.sil.org/OFL">
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" />
+        <ns4:permits rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Notice" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" />
+        <ns4:requires rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" />
+      </ns4:License>
+    </rdf:RDF>
+  </metadata>
+  <g ns2:label="icon" id="layer6" ns2:groupmode="layer">
+    <path id="path2" d="M 128.00044,383.9996 V 128.00001 h 64 V 64 H 64.000878 V 447.99913 H 256.00043 V 383.99918 Z M 383.99959,64.000453 H 256.00001 V 128.00044 H 383.99959 V 384.00005 H 319.99956 V 448 H 447.99912 V 64.000877 Z" style="stroke-width:0.0675239" />
+  </g>
+</svg>
